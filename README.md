@@ -40,7 +40,7 @@ This repository contains my solutions and code for various **Kaggle** competitio
   * Scaled core racing metrics using `StandardScaler` and trained a **K-Means algorithm (5 clusters)** on features like `TyreLife` and `LapNumber`.
   * Generated distance-to-centroid features (`Centroid_0` through `Centroid_4`) and fed them directly into the supervised model as structural meta-features.
 * **Modeling:** Deployed an **XGBClassifier** with `scale_pos_weight=10` to heavily penalize errors on the minority class, effectively resolving the severe class imbalance typical of pit stop events.
-* **Evaluation:** 5-Fold Cross-Validation achieving a strong **ROC-AUC score of 0.94**.
+* **Evaluation:** 5-Fold Cross-Validation achieving a strong **ROC-AUC score of 0.93703**.
 
 ---
 
