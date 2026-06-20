@@ -8,7 +8,7 @@ This repository contains my solutions and code for various **Kaggle** competitio
 ---
 
 ## 🏠 Project 1: House Prices - Advanced Regression Techniques
-* **Competition:** Housing Prices Competition for Kaggle Learn Users
+* **Competition:** Housing Prices Competition for Kaggle Learn Users (https://www.kaggle.com/competitions/home-data-for-ml-course) 🔗
 * **Global Ranking:** **388 / 4,050 (Top 10%)** 🥇
 * **Objective:** Predict the final sale price of residential homes using 79 explanatory variables.
 
@@ -28,7 +28,7 @@ This repository contains my solutions and code for various **Kaggle** competitio
 ---
 
 ## 🏎️ Project 2: F1 Pit Stop Prediction (Classification)
-* **Competition:** Playground Series - Season 6, Episode 5 (Predicting F1 Pit Stops)
+* **Competition:** Playground Series - Season 6, Episode 5 (Predicting F1 Pit Stops) (https://www.kaggle.com/competitions/playground-series-s6e5) 🔗
 * **Global Ranking:** 4,265 / 5,022 *(Baseline Model - Learning Stage)*
 * **Objective:** Binary classification to predict whether a driver will pit on the very next lap (`PitNextLap`).
 
