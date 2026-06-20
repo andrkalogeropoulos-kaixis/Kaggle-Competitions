@@ -23,7 +23,7 @@ This repository contains my solutions and code for various **Kaggle** competitio
   * *Low Cardinality Categorical:* Applied `OneHotEncoder`.
   * *High Cardinality Categorical:* Applied `OrdinalEncoder`.
 * **Modeling:** Trained an **XGBRegressor** (tuned with 214 estimators and a learning rate of 0.05).
-* **Evaluation:** 5-Fold Cross-Validation yielding an **Average CV MAE of ~16,654**.
+* **Evaluation:** 5-Fold Cross-Validation yielding an **Average CV MAE of 14443.42790**.
 
 ---
 
