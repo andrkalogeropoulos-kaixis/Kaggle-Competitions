@@ -57,7 +57,7 @@ This repository contains my solutions and code for various **Kaggle** competitio
 ### 📂 Repository Structure
 ```text
 ├── House-Prices-Regression/
-│   ├── house_prices_solution.ipynb  # Notebook for the Housing Competition
+│   ├── my-first-house-prices-prediction.ipynb  # Notebook for the Housing Competition
 │   └── submission.csv
 ├── F1-Pit-Stops-Classification/
 │   ├── f1_pit_stops_solution.ipynb  # Notebook for the F1 Playground
