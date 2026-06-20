@@ -63,3 +63,5 @@ This repository contains my solutions and code for various **Kaggle** competitio
 │   ├── f1_pit_stops_solution.ipynb  # Notebook for the F1 Playground
 │   └── submission.csv
 └── README.md
+
+Note: The datasets are hosted directly on Kaggle and are not included in this repository due to file size constraints.
