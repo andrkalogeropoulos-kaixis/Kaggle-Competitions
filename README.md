@@ -1,4 +1,4 @@
-readme_content = """# Kaggle Machine Learning Competitions 🏆
+# Kaggle Machine Learning Competitions 🏆
 
 This repository contains my solutions and code for various **Kaggle** competitions. These projects were developed as part of my learning journey and practical application of the following Kaggle Learn modules:
 * *Intro & Intermediate Machine Learning*
@@ -55,11 +55,6 @@ This repository contains my solutions and code for various **Kaggle** competitio
 ---
 
 ### 📂 Repository Structure
-
-Έξοδος κώδικα
-
-File written successfully.
-
 ```text
 ├── House-Prices-Regression/
 │   ├── house_prices_solution.ipynb  # Notebook for the Housing Competition
